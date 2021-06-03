@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament for the prevention of a most horrid, wicked and unnaturall designe, pursued by Sir Ralph Hopton and his adherents, rebells and traytors, in a warlike manner in Cornewall, and Devon : whereby ruine and destruction is now threatened by the Welch, and others of that hellish &amp; accursed crew to the county of Somerset, and the adjacent counties, who are therefore hereby authorised to imploy the moneys raysed there upon the Parliaments propositions for defence of themselves : with an ordinance of both Houses for the assessing of malignants in the said county of Somerset, and the parts adjacent.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21944</idno><idno type="EEBO-CITATION">12174733</idno>
+  <idno type="VID">197011</idno>
+  <idno type="EEBO-PROQUEST">2240924766</idno>
+  
+            <idno type="STC">Wing E1420</idno>
+            <idno type="OCLC">12174733</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21944)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197011)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E86, no 36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament for the prevention of a most horrid, wicked and unnaturall designe, pursued by Sir Ralph Hopton and his adherents, rebells and traytors, in a warlike manner in Cornewall, and Devon : whereby ruine and destruction is now threatened by the Welch, and others of that hellish &amp; accursed crew to the county of Somerset, and the adjacent counties, who are therefore hereby authorised to imploy the moneys raysed there upon the Parliaments propositions for defence of themselves : with an ordinance of both Houses for the assessing of malignants in the said county of Somerset, and the parts adjacent.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>... Printed for Iohn Wright ...,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>Ian. 30, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Hopton, Ralph Hopton, --  Baron, 1598-1652.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197011:1"/>
+            <p> A DECLARATION Of the LORDS and COMMONS Assembled in PARLIAMENT: For the prevention of a most horrid, wicked and Unnaturall designe, pursued by Sir <hi>Ralph Hopton</hi> and his adherents, Rebells and Tray<g ref="char:EOLhyphen"/>tors, in a warlike manner in <hi>Cornewall,</hi> and <hi>Devon,</hi> whereby ru<g ref="char:EOLhyphen"/>ine and destruction is now threatned by the Welch, and others of that hellish &amp; accursed Crew to the County of <hi>Somerset,</hi> and the adjacent Coun<g ref="char:EOLhyphen"/>ties, who are therefore hereby authorised to imploy the moneys ray<g ref="char:EOLhyphen"/>sed there upon the Parliaments Propositions, for de<g ref="char:EOLhyphen"/>fence of themselves.</p>
+            <p>With an Ordinance of both Houses for the Assessing of Malignants in the said County of <hi>Somerset,</hi> and the parts adjacent</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Sabbathi, 28 Ian. 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Lords and Commons Assembled in Parliament, that this Declaration and Ordinance shall be forthwith Prin<g ref="char:EOLhyphen"/>ted and Published.</hi>
+                        </p>
+                        <closer>
+                           <signed>John Browne, Cler. Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Ian. 30. Printed for <hi>Iohn Wright</hi> in the Old Bailey. 1642.</p>
+            <pb facs="tcp:197011:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:197011:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Veneris,</hi> 27. <hi>Ianuarii,</hi> 1642.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas his Majesty, by the advice and in<g ref="char:EOLhyphen"/>stigation of a wicked Councell about his Person, hath raysed Forces against the Parliament, and hath Actually made Warre against his great Councell, and his good Subjects of the Kingdom, which Forces so raysed by his Majesty, for the most part are consisting of Papists, notorious Delinquents, and other Ma<g ref="char:EOLhyphen"/>lignant persons, by whom the wel-affected of this kingdome are ruinated in their estates, &amp; divers Out<g ref="char:EOLhyphen"/>rages committed upon their persons; And forasmuch as Sir <hi>Ralph Hopton</hi> and his Adherents, Rebells and Traytors, combining together in pursuance of this most horrid, wicked, and unnaturall designe, hath levyed divers Forces in the County of <hi>Corn-Wall,</hi> and in a warlike manner already entred into the County of <hi>Devon,</hi> and Besieged, Robbed, Spoy<g ref="char:EOLhyphen"/>led, Plundered, and Pillaged, divers Townes and places in the said County, and divers Rapes, Mur<g ref="char:EOLhyphen"/>ders, and other misdemeanors, have acted and com<g ref="char:EOLhyphen"/>mitted upon divers of his Majesties good Subjects there, and many of them hath utterly destroyed; And forasmuch as that now Ruine and Destruction is threatned, not only by that Hellish and accursed Crew, but also by the Welch, and other Forces raysed by his Majesty, and in his name, to the County of <hi>Somerset,</hi>
+               <pb facs="tcp:197011:3"/> and other the adjacent Counties, the said Counties also being in danger by the Invasion of a forraigne Enemy, For prevention whereof, amongst other the said Counties, the wel-affected and good Subjects in the said County of <hi>Somerset,</hi> for defence of them<g ref="char:EOLhyphen"/>selves and the Westerne parts, against all such their Enemies, Rebels and Traytors, having associated themselves, and raysed divers Forces both of Horse and Foot, which must be maintained upon the pub<g ref="char:EOLhyphen"/>lique charge, The Lords and Commons assembled in Parliament, doe Order, Declare, and Ordaine, that the Receivers for the Subscriptions appoynted for the County of <hi>Somerset,</hi> upon the Propositions for raysing of Horse, Money, and Plate, for the defence of the King, Kingdom, and Parlament and all Collectors, Subcollectors, and others intrusted, for the levying and receiving of the said Collections, and the said Propositions, in and for the said County of <hi>Somerset,</hi> shall forthwith pay in all such Summe and Summes of Money as by them or any of them hath beene Col<g ref="char:EOLhyphen"/>lected and received, and not payd into the Treasurers in <hi>London</hi> according to the said Ordinance, for the Propositions as aforesaid, unto <hi>John Ashe</hi> Esquire, and <hi>Roger Hill</hi> of <hi>Taunton</hi> Gentleman, Treasurers hereby appoynted to receive the said Summes so ray<g ref="char:EOLhyphen"/>sed and levyed as aforesaid, upon the said Ordinance for Subscriptions as aforesaid, to be imployed to the uses and purposes limitted and appoynted b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the said Ordinance, for Subscriptions upon the said Propo<g ref="char:EOLhyphen"/>sitions, and to no other use, <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntent, or purpose, And that the said Monies so Subscribed, raysed, and ga<g ref="char:EOLhyphen"/>thered as aforesaid shall not be issue out by the said Treasurers hereby appoynted, but by Warrant to
+<pb facs="tcp:197011:3"/> them made by the Right Honourable the now Earle of <hi>Stamford,</hi> Sir <hi>Iohn Horner,</hi> Sir <hi>Thomas Wroth,</hi> Sir <hi>Francis Popham, Alexander Popham, Hugh Ro<g ref="char:EOLhyphen"/>gers, Christopher Walker, William Strode, Richard Cole, Iohn Frances, Iohn Harrington, <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohn Hippesley, lames Ashe, Iohn Ashe, Iohn Pi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, Henry Stamford, William Seaborne, Thomas H<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppesley, Henry Hen<g ref="char:EOLhyphen"/>ley, Iohn Preston, William Long▪</hi> or any three or more of them under their hands and Seales, shall limit, appoynt, and declare, And that the Warrant or Warrants of the persons aforesaid, or of any three or more of them in manner as aforesaid, for the issuing out of the said Monies, together with the Acquittance or Acquittances from the Person or Persons which shall be appoynted by the persons aforesaid, or any three or more of them, for the receipt of the said Sum or Summes of Money according to this Ordinance, shal be a sufficient discharge to the Treasurers hereby named, for so much as shall be <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> in such Acquit<g ref="char:EOLhyphen"/>tance or Acquittances for the issuing out and payment of the said Summe or Summes of Mony respective<g ref="char:EOLhyphen"/>ly, And that the Treasurers shall not at all pay any Summe or Summes of Money to be by them recei<g ref="char:EOLhyphen"/>ved upon any other direction, Warrant, or Command whatsoever. And further it is Ordered and Decla<g ref="char:EOLhyphen"/>red, that the said Receivers appoynted by vertue of the said Ordinance for the Propositions, who were thereby required to pay or cause to be payd the said Monies by them received, to the Treasurers in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> named in the said Propositions, for so much of the said Monies as the<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> shall pay to the Treasurers here<g ref="char:EOLhyphen"/>by nominated and appoynted for the County of <hi>Somer<g ref="char:EOLhyphen"/>set</hi>
+               <pb facs="tcp:197011:4"/> as aforesaid, having their or either of their re<g ref="char:EOLhyphen"/>spective Acquittance or Acquittances, shall be dischar<g ref="char:EOLhyphen"/>ged, any Act or thing heretofore made to the contrary notwithstanding,</p>
+            <p>Provided that this Ordinance shall not extend to impeach or diminish any Order or Ordinance of both Houses of Parliament formerly made, for disposing of any of the said Monies, or other Orders made to the Towne of <hi>Taunton,</hi> or other place in the said County of <hi>Somerset,</hi> having thereby obtained an Al<g ref="char:EOLhyphen"/>lowance for Fortifications out of their owne re<g ref="char:EOLhyphen"/>spective Subscriptions and Contributious upon the said Propositions.</p>
+         </div>
+         <div type="declaration">
+            <pb facs="tcp:197011:4"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Veneris,</hi> 27. <hi>Ianuarii,</hi> 1642.</date>
+               </dateline>
+            </opener>
+            <p>VVHereas Sir <hi>Ralph Hopton,</hi> and his Adhe<g ref="char:EOLhyphen"/>rents, Rebels and Traytors, combining to<g ref="char:EOLhyphen"/>gether, hath leavyed war against the Parli<g ref="char:EOLhyphen"/>ament, and hath in a warlike manner already entered into the County of <hi>Devon,</hi> and besieged, robbed, spoy<g ref="char:EOLhyphen"/>led, plundered, &amp; pillaged diverse Towns and places, in the said County, and diverse cruel and barbarous murthers, rapes, and other notorious out-rages hath committed and done in the said County, upon diverse of his Maiesties good Subiects, and many of them hath utterly ruin'd and destroyd; and forasmuch as the like danger and destcuction is threatned to the County of <hi>Somerset,</hi> by the said Rebels and Traytors, who have a great partie in the said County of <hi>Somerset,</hi> that are Persons ill-affected: It is therefore Ordered and Ordained by the Lords and Commons Assembled in Parliament, and by the Authority of the same, That Sir <hi>Iohn Horner,</hi> Sir <hi>Fran<g ref="char:EOLhyphen"/>cis Popham,</hi> Sir <hi>Thomas Wroth,</hi> Sir <hi>George Farwell</hi> Knights, <hi>Alexander Popham, Hugh Rogers, Christopher Walker, Iohn Harrington, Iohn Hippesly, Iohn Francis, Rich. Cole, William Strode, Iohn Pine, Henry Henley, Iohn Preston, Iames Ashe, Iohn Ash, Henry Stamford, Wil. Seaborne, Tho. Hippesly, and Wil. Long</hi> Esquires, or any three or more of them, or any three or more of such honest able and sufficient, as any three or more of the Persons afore mentioned shall by their Warrants under the Hands nominated and appointed Assessors, shall Assesse, Rate, and Charge such Person and Persons, Inhabitants or others, residing and abiding in the said County, as are of abili<g ref="char:EOLhyphen"/>ty, and have not contributed to the Propositions, for the raising of Horse, Money, or Plate, for the defence of the King and Parliament, formerly agreed upon by both Houses of Parli<g ref="char:EOLhyphen"/>ament, and other such as have contributed, but not according to their Abilities, to pay such sum or summes of money accor<g ref="char:EOLhyphen"/>ding to their Estates, as the said Assessors, or any three of them shall thinke fit and reasonable, so as the same exceed not the twentieth part of their Estates; and if any person so Assessed
+<pb facs="tcp:197011:5"/> shall refuse to pay the Money so to be assessed upon him, in such manner, and at such times and places, as by the said Assessors or any three of them shall be required and appointed, it shall be lawful to and for the said Assessors above named, or any three of them, to grant Warrants to any Person or Per<g ref="char:EOLhyphen"/>sons under their hands and Seales to leave all and every such sum or summes so Assessed, by any way of distresse, and sale of the goods of such Person or Persons so assessed, and refusing, restoring the overplus it any shall be, to him or them that shall be so d<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>strained, and if any Person so distrayned shall make resistance, it shall be lawfull to, and for the said Assessors above named, or any three of them, by their warrant, to require the Parliament Forces in those parts, and all other his Maiesties Officers and good Subiects to be ayding and as<g ref="char:EOLhyphen"/>sisting in the premises, the said summes so Assessed and leavy<g ref="char:EOLhyphen"/>ed to be paid unto <hi>Iohn Ashe</hi> Esquire, and <hi>Roger Hill</hi> of <hi>Taun<g ref="char:EOLhyphen"/>ton,</hi> Gentleman, Treasurers hereby appointed to receive the said sums so to be raised and leavyed as aforesaid, and that the money so raised, shall not be issued out, but by Warrant to the said Treasurers, under the hands of three or more of the said Assessors above named, and such Person or Persons as shal be notoriously refractory and disobedient in the premises, or have not sufficient <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> to be taken, it shall be lawfull for the Assessors above named, or any two of them▪ by their War<g ref="char:EOLhyphen"/>rant under their Hands and Seales, to commit him or them to some common Goale, there to remaine untill payment bée made of such summe or summes of Money upon him or them so Assessed, or to send them up to the Parliament, by Ship or otherwise: and for any Act or thing done or to be done, accor<g ref="char:EOLhyphen"/>ding to the tenure of this Ordinance, they and every of them before named, and all and every other person or persons by them imployed in the Execution of this said Ordinance, shall be saved harmelesse by authority of both Houses of Parliament,</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
